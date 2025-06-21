@@ -9,4 +9,6 @@ Una actualización más
 
 Actualización de Git fetch
 
-Cambios desde la rama local deloper01
+Cambios desde la rama local developer01
+
+Cambios desde vs de web
